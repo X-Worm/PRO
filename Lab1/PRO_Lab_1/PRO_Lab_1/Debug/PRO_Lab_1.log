@@ -1,0 +1,44 @@
+﻿  PRO_Lab_1.cpp
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(125,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(169,12): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(169,12): warning C4244:         with
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(169,12): warning C4244:         [
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(169,12): warning C4244:             _Ty=float
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(169,12): warning C4244:         ]
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(178,20): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(178,20): warning C4244:         with
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(178,20): warning C4244:         [
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(178,20): warning C4244:             _Ty=float
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(178,20): warning C4244:         ]
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(225,19): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(225,19): warning C4244:         with
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(225,19): warning C4244:         [
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(225,19): warning C4244:             _Ty=float
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(225,19): warning C4244:         ]
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(228,19): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(228,19): warning C4244:         with
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(228,19): warning C4244:         [
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(228,19): warning C4244:             _Ty=float
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(228,19): warning C4244:         ]
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(232,22): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(232,22): warning C4244:         with
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(232,22): warning C4244:         [
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(232,22): warning C4244:             _Ty=float
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(232,22): warning C4244:         ]
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(237,23): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(237,23): warning C4244:         with
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(237,23): warning C4244:         [
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(237,23): warning C4244:             _Ty=float
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(237,23): warning C4244:         ]
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(242,23): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(242,23): warning C4244:         with
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(242,23): warning C4244:         [
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(242,23): warning C4244:             _Ty=float
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(242,23): warning C4244:         ]
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(247,23): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(247,23): warning C4244:         with
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(247,23): warning C4244:         [
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(247,23): warning C4244:             _Ty=float
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(247,23): warning C4244:         ]
+C:\Users\Vasyl\source\repos\PRO_Lab_1\PRO_Lab_1\PRO_Lab_1.cpp(126,15): warning C4101: 'k': unreferenced local variable
+  PRO_Lab_1.vcxproj -> C:\Users\Vasyl\source\repos\PRO_Lab_1\Debug\PRO_Lab_1.exe
